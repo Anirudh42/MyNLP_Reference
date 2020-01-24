@@ -1,2 +1,1 @@
-# TextAnalyticsCourse
-My Assignments
+Reference for few NLP tasks
